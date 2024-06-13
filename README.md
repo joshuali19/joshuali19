@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm an early career data analyst/data scientist with 2+ years in Python, R and SQL and 1+ year in Tableau and PowerBI. I am interested in sports analytics and healthcare analytics, and have experience in both fields. Please take a look at some of the highlighted projects in my GitHub page! 
 <!--
 **joshuali19/joshuali19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
